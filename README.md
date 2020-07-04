@@ -1,7 +1,7 @@
 # What is cloud
 
 Cloud  it is  basically, as a rent computing resources or as service provider. The cloud refers to server that are accessed over the internet, and the software and data base that run on those servers. By using cloud computing, users and companies don't have to manage physical servers themselves or run software application on their own machine.
-## As a rent it provides
+#### As a rent it provides :-
 1. Computing resources
 
 2. Software/Application
